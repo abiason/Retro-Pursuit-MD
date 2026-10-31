@@ -4,7 +4,17 @@ Jogo original para Mega Drive / Genesis em C com SGDK 1.90.
 
 A game by Biason X.
 
-**Versão candidata:** [baixar a ROM](release/Retro-Pursuit-1.0.bin) e [conferir SHA-256](release/SHA256SUMS.txt). Abrir em emulador Mega Drive / Genesis compatível. As pendências de aceite estão documentadas abaixo.
+**Versão candidata:** [baixar a ROM na release v1.0-rc1](https://github.com/abiason/Retro-Pursuit-MD/releases/tag/v1.0-rc1) ou [ver a cópia versionada](release/Retro-Pursuit-1.0.bin) e [conferir SHA-256](release/SHA256SUMS.txt). Abrir em emulador Mega Drive / Genesis compatível. As pendências de aceite estão documentadas abaixo.
+
+## Screenshots
+
+| Título | Partida |
+| --- | --- |
+| ![Menu principal de Retro Pursuit](docs/screenshots/title.png) | ![Partida no Main Atrium](docs/screenshots/gameplay.png) |
+| Créditos | Pausa |
+| ![Créditos: A game by Biason X](docs/screenshots/credits.png) | ![Menu de pausa](docs/screenshots/pause.png) |
+
+Capturas reais do Gens KMod em NTSC, usando o roteiro de inspeção visual. O rodapé VISUAL TEST identifica a ROM de teste usada nas capturas; a ROM candidata da release usa o controle normal e não exibe essa marca.
 
 Versão 1.0: trilha PSG original, efeitos de eventos, oito poses por personagem, logotipo e cenários refinados. Campanha de três fases com mapas, escadas, degraus e cores próprios; tempo menor, criminoso mais rápido e mais obstáculos ao avançar. Mantém menus, pausa, dano, proteção, pontuação e Game Over, com simulação inteira a 120 Hz e apresentação PAL/NTSC.
 

@@ -213,3 +213,10 @@ Solicitação do usuário: incluir exatamente "A game by Biason X". Frase adicio
 
 - Dois builds limpos idênticos após a alteração visual; ROM de 524288 bytes, checksum XOR 5796. SHA-256: 22e988e44f2bab8134490379447abc932f909ea88b2d02348a639d4b6eca553e.
 - Sem alteração de lógica de domínio. Suítes não repetidas nesta alteração de texto; compilação e checksum conferidos. Pacote e manifesto atualizados; entrega anterior preservada com sufixo pre-Biason-X.
+
+
+## Publicação de screenshots e pré-release
+
+Capturas reais do Gens KMod NTSC adicionadas em docs/screenshots: título, partida no Main Atrium, créditos e pausa. Geradas pela ROM VISUAL TEST de interface; a marca é preservada e identificada no README. Não representam uma campanha humana. A mensagem "A game by Biason X" foi observada nos créditos.
+
+Pré-release v1.0-rc1 preparada com a ROM candidata já validada e SHA256SUMS.txt. Não houve alteração de código ou bytes da ROM nesta publicação; permanecem válidas as evidências e pendências registradas acima.
