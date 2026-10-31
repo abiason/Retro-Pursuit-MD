@@ -1,0 +1,8 @@
+#ifndef RP_ANIMATION_H
+#define RP_ANIMATION_H
+#include "entities/player.h"
+enum { PLAYER_FRAME_IDLE, PLAYER_FRAME_WALK_A, PLAYER_FRAME_WALK_B,
+       PLAYER_FRAME_JUMP, PLAYER_FRAME_CLIMB_A, PLAYER_FRAME_CLIMB_B,
+       PLAYER_FRAME_CAPTURE, PLAYER_FRAME_HURT, PLAYER_FRAME_COUNT };
+void animation_update(Player *player);
+#endif

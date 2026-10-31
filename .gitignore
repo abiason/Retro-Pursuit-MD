@@ -1,0 +1,5 @@
+out/
+dist/
+res/*.h
+res/*.rs
+tools/emulator/
